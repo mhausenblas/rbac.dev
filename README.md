@@ -1,3 +1,5 @@
+A site dedicated to collecting good practices and tooling around Kubernetes RBAC. Both pull requests and issues are welcome.
+
 ## Official Kubernetes docs
 
 - [Authorization](https://kubernetes.io/docs/admin/authorization/)
