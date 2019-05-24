@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Official Kubernetes docs
 
-You can use the [editor on GitHub](https://github.com/mhausenblas/rbac.dev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [Authorization](https://kubernetes.io/docs/admin/authorization/)
+- [Using RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+- [Controlling Access to the Kubernetes API](https://kubernetes.io/docs/reference/access-authn-authz/controlling-access/)
+- [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Talks and articles
 
-### Markdown
+- [Effective RBAC](https://www.youtube.com/watch?v=Nw1ymxcLIDI) by Jordan Liggitt 
+- [Configure RBAC In Your Kubernetes Cluster](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/) via Bitnami
+- [Using RBAC, Generally Available in Kubernetes v1.8](https://kubernetes.io/blog/2017/10/using-rbac-generally-available-18/) by Eric Chiang
+- [On defaults in Kubernetes RBAC](https://dev.to/mhausenblas/on-some-defaults-in-kubernetes-rbac-270l) by Michael Hausenblas
+- [Stop using admin credentials in kubectl](https://goglides.com/blog/create-less-privileges-user-in-kubernetes-using-rbac-for-kubectl/) by Balkrishna Pandey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tooling
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhausenblas/rbac.dev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac)
+- [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager)
+- [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess)
+- [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup)
