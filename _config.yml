@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: RBAC.dev
+description: advocacy site for Kubernetes RBAC
+show_downloads: false
+google_analytics:
