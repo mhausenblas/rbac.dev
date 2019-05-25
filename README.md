@@ -24,3 +24,4 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager)
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess)
 - [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup)
+- [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view)
