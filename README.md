@@ -17,6 +17,7 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [Testing Kubernetes RBAC](https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e/) by Tom Gallacher
 - [Demystifying RBAC in Kubernetes](https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/) via CNCF and Bitnami (video)
 - [Configuring permissions in Kubernetes with RBAC](https://medium.com/containerum/configuring-permissions-in-kubernetes-with-rbac-a456a9717d5d/) via Containerum
+- [Kubernetes Authorization via Open Policy Agent](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) by Stefan Büringer
 
 ## Tooling
 
@@ -25,3 +26,4 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess)
 - [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup)
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view)
+- [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq)
