@@ -21,10 +21,18 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 
 ## Tooling
 
+### Generators and operators
+
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac): takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user.
 - [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager): operator that supports declarative configuration for RBAC with new custom resources.
+
+### Interactive queries
+
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess): show an access matrix for server resources.
 - [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup): allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq): simplifies querying Subjects and Rights specified in Kubernetes through Roles/ClusterRoles and RoleBindings/ClusterRoleBindings.
+
+### Visualization
+
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view): visualizes RBAC permissions in tabular format in your browser.
-- [mhausenblas/rback](https://github.com/mhausenblas/rback): queries RBAC information of an Kubernetes cluster generates a graph representation of service accounts, (cluster) roles, and the respective access rules in Graphviz dot format.
+- [mhausenblas/rback](https://github.com/mhausenblas/rback): generates a graph representation (in Graphviz `dot` format) of a Kubernetes cluster's RBAC settings.
