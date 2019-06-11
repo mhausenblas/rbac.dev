@@ -31,6 +31,7 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess): show an access matrix for server resources.
 - [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup): allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq): simplifies querying Subjects and Rights specified in Kubernetes through Roles/ClusterRoles and RoleBindings/ClusterRoleBindings.
+- [Ladicle/kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole): finding Kubernetes roles bound to a specified service account, group or user.
 
 ### Visualization
 
