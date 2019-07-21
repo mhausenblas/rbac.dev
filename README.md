@@ -32,9 +32,10 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup): allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq): simplifies querying Subjects and Rights specified in Kubernetes through Roles/ClusterRoles and RoleBindings/ClusterRoleBindings.
 - [Ladicle/kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole): finding Kubernetes roles bound to a specified service account, group or user.
-- [aquasecurity/kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can): show all the subjects who have permission to perform a given verb on specified resources (for example, find all the subjects who can create pods in a given namespace, or who can delete nodes in the cluster)
+- [aquasecurity/kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can): show all the subjects who have permission to perform a given verb on specified resources, for example, find all the subjects who can create pods in a given namespace, or who can delete nodes in the cluster.
+- [mhausenblas/rbIAM/](https://github.com/mhausenblas/rbIAM/): a unified AWS IAM & Kubernetes RBAC access control exploration tool.
 
 ### Visualization
 
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view): visualizes RBAC permissions in tabular format in your browser.
-- [mhausenblas/rback](https://github.com/mhausenblas/rback): generates a graph representation (in Graphviz `dot` format) of a Kubernetes cluster's RBAC settings.
+- [team-soteria/rback](https://github.com/team-soteria/rback): generates a graph representation (in Graphviz `dot` format) of a Kubernetes cluster's RBAC settings.
