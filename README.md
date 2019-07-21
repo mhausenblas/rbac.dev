@@ -33,7 +33,7 @@ A site dedicated to collecting good practices and tooling around Kubernetes RBAC
 - [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq): simplifies querying Subjects and Rights specified in Kubernetes through Roles/ClusterRoles and RoleBindings/ClusterRoleBindings.
 - [Ladicle/kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole): finding Kubernetes roles bound to a specified service account, group or user.
 - [aquasecurity/kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can): show all the subjects who have permission to perform a given verb on specified resources, for example, find all the subjects who can create pods in a given namespace, or who can delete nodes in the cluster.
-- [mhausenblas/rbIAM/](https://github.com/mhausenblas/rbIAM/): a unified AWS IAM & Kubernetes RBAC access control exploration tool.
+- [mhausenblas/rbIAM](https://github.com/mhausenblas/rbIAM/): a unified AWS IAM & Kubernetes RBAC access control exploration tool.
 
 ### Visualization
 
