@@ -1,4 +1,6 @@
-A site dedicated to collecting good practices and tooling around Kubernetes RBAC. Both pull requests and issues are welcome.
+A site dedicated to good practices and tooling around Kubernetes RBAC. Both pull requests and issues are welcome.
+
+For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.rbac.dev/).
 
 ## Official Kubernetes docs
 
