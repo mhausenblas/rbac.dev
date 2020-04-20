@@ -27,12 +27,12 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 ### Generators and operators
 
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac): takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user.
-- [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager): operator that supports declarative configuration for RBAC with new custom resources.
+- [fairwindsops/rbac-manager](https://github.com/fairwindsops/rbac-manager): operator that supports declarative configuration for RBAC with new custom resources.
 
 ### Interactive queries
 
 - [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess): show an access matrix for server resources.
-- [reactiveops/rbac-lookup](https://github.com/reactiveops/rbac-lookup): allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
+- [fairwindsops/rbac-lookup](https://github.com/fairwindsops/rbac-lookup): allows you to easily find Kubernetes roles and cluster roles bound to any user, service account, or group name.
 - [sbueringer/kubernetes-rbacq](https://github.com/sbueringer/kubernetes-rbacq): simplifies querying Subjects and Rights specified in Kubernetes through Roles/ClusterRoles and RoleBindings/ClusterRoleBindings.
 - [Ladicle/kubectl-bindrole](https://github.com/Ladicle/kubectl-bindrole): finding Kubernetes roles bound to a specified service account, group or user.
 - [aquasecurity/kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can): show all the subjects who have permission to perform a given verb on specified resources, for example, find all the subjects who can create pods in a given namespace, or who can delete nodes in the cluster.
