@@ -20,6 +20,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 - [Demystifying RBAC in Kubernetes](https://www.cncf.io/blog/2018/08/01/demystifying-rbac-in-kubernetes/) via CNCF and Bitnami (video)
 - [Configuring permissions in Kubernetes with RBAC](https://medium.com/containerum/configuring-permissions-in-kubernetes-with-rbac-a456a9717d5d/) via Containerum
 - [Kubernetes Authorization via Open Policy Agent](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) by Stefan Büringer
+- [Configure RBAC in Kubernetes Like A Boss](https://medium.com/trendyol-tech/configure-rbac-in-kubernetes-like-a-boss-665e2a8665dd) by Emre Savcı
 
 ## Tooling
 
