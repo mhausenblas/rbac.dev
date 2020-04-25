@@ -21,8 +21,12 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 - [Configuring permissions in Kubernetes with RBAC](https://medium.com/containerum/configuring-permissions-in-kubernetes-with-rbac-a456a9717d5d/) via Containerum
 - [Kubernetes Authorization via Open Policy Agent](https://itnext.io/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb) by Stefan Büringer
 - [Configure RBAC in Kubernetes Like A Boss](https://medium.com/trendyol-tech/configure-rbac-in-kubernetes-like-a-boss-665e2a8665dd) by Emre Savcı
+- [Securing Kubernetes Clusters by Eliminating Risky RBAC Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/) by Eviatar Gerzi  
+- [Compromising Kubernetes Cluster by Exploiting RBAC Permissions](https://www.youtube.com/watch?v=1LMo0CftVC4) by Eviatar Gerzi
 
 ## Tooling
+
+- [KubiScan](https://github.com/cyberark/KubiScan) - A tool by Eviatar Gerzi to scan Kubernetes cluster for risky RBAC permissions  
 
 ### Generators and operators
 
