@@ -23,6 +23,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 - [Configure RBAC in Kubernetes Like A Boss](https://medium.com/trendyol-tech/configure-rbac-in-kubernetes-like-a-boss-665e2a8665dd) by Emre Savcı
 - [Securing Kubernetes Clusters by Eliminating Risky RBAC Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/) by Eviatar Gerzi  
 - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions](https://www.youtube.com/watch?v=1LMo0CftVC4) by Eviatar Gerzi
+- [Permission manager : RBAC management for Kubernetes](https://blog.kubernauts.io/permission-manager-rbac-management-for-kubernetes-ed46c2f38cfb) by Saiyam Pathak
 
 ## Tooling
 
@@ -47,3 +48,4 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 - [jasonrichardsmith/rbac-view](https://github.com/jasonrichardsmith/rbac-view): visualizes RBAC permissions in tabular format in your browser.
 - [team-soteria/rback](https://github.com/team-soteria/rback): generates a graph representation (in Graphviz `dot` format) of a Kubernetes cluster's RBAC settings.
+- [sighupio/permission-manager](https://github.com/sighupio/permission-manager): super-easy and user-friendly RBAC management for Kubernetes. You can create users, assign namespaces/permissions, and distribute Kubeconfig YAML files via a nice and easy web UI.
