@@ -30,6 +30,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan): a tool by Eviatar Gerzi to scan Kubernetes cluster for risky RBAC permissions
 - [appvia/krane](https://github.com/appvia/krane): a Kubernetes RBAC static analysis and visualisation tool
+- [alcideio/rbac-tool](https://github.com/alcideio/rbac-tool): Collection of Kubernetes RBAC power toys - Visualize, Generate & Query by Alcide
 
 ### Generators and operators
 
