@@ -31,6 +31,9 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 - [cyberark/KubiScan](https://github.com/cyberark/KubiScan): a tool by Eviatar Gerzi to scan Kubernetes cluster for risky RBAC permissions
 - [appvia/krane](https://github.com/appvia/krane): a Kubernetes RBAC static analysis and visualisation tool
 - [alcideio/rbac-tool](https://github.com/alcideio/rbac-tool): Collection of Kubernetes RBAC power toys - Visualize, Generate & Query by Alcide
+- [corneliusweig/rakkess](https://github.com/corneliusweig/rakkess): Review Access - kubectl plugin to show an access matrix for server resources
+- [FairwindsOps/rbac-lookup](https://github.com/FairwindsOps/rbac-lookup): Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster 
+
 
 ### Generators and operators
 
