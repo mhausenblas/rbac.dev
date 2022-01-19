@@ -25,6 +25,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 - [Compromising Kubernetes Cluster by Exploiting RBAC Permissions](https://www.youtube.com/watch?v=1LMo0CftVC4) by Eviatar Gerzi
 - [Permission manager : RBAC management for Kubernetes](https://blog.kubernauts.io/permission-manager-rbac-management-for-kubernetes-ed46c2f38cfb) by Saiyam Pathak
 - [Inside Kubernetes RBAC](https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a) by Dominik Tornow
+- [The Kubernetes Authorization Webhook](https://blog.styra.com/blog/kubernetes-authorization-webhook) by Anders Eknert
 
 ## Tooling
 
