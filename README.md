@@ -11,6 +11,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 ## Talks and articles
 
+- [How and why we adopted Role-Based Access Control (RBAC)](https://blog.mia-platform.eu/en/how-why-adopted-role-based-access-control-rbac) by Federico Maggi
 - [Effective RBAC](https://www.youtube.com/watch?v=Nw1ymxcLIDI) by Jordan Liggitt
 - [Configure RBAC In Your Kubernetes Cluster](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/) via Bitnami
 - [Using RBAC, Generally Available in Kubernetes v1.8](https://kubernetes.io/blog/2017/10/using-rbac-generally-available-18/) by Eric Chiang
@@ -37,6 +38,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac): takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user.
 - [fairwindsops/rbac-manager](https://github.com/fairwindsops/rbac-manager): operator that supports declarative configuration for RBAC with new custom resources.
+- [rond-authz/rond](https://github.com/rond-authz/rond): Rönd is a lightweight container that distributes security policy enforcing throughout your application.
 
 ### Interactive queries
 
