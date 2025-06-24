@@ -13,7 +13,6 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 - [How and why we adopted Role-Based Access Control (RBAC)](https://blog.mia-platform.eu/en/how-why-adopted-role-based-access-control-rbac) by Federico Maggi
 - [Effective RBAC](https://www.youtube.com/watch?v=Nw1ymxcLIDI) by Jordan Liggitt
-- [Configure RBAC In Your Kubernetes Cluster](https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/) via Bitnami
 - [Using RBAC, Generally Available in Kubernetes v1.8](https://kubernetes.io/blog/2017/10/using-rbac-generally-available-18/) by Eric Chiang
 - [On defaults in Kubernetes RBAC](https://dev.to/mhausenblas/on-some-defaults-in-kubernetes-rbac-270l) by Michael Hausenblas
 - [Stop using admin credentials in kubectl](https://goglides.com/blog/create-less-privileges-user-in-kubernetes-using-rbac-for-kubectl/) by Balkrishna Pandey
