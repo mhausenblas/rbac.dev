@@ -4,7 +4,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 
 ## Official Kubernetes docs
 
-- [Authorization](https://kubernetes.io/docs/admin/authorization/)
+- [Authorization](https://kubernetes.io/docs/reference/access-authn-authz/authorization/)
 - [Using RBAC Authorization](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
 - [Controlling Access to the Kubernetes API](https://kubernetes.io/docs/reference/access-authn-authz/controlling-access/)
 - [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
