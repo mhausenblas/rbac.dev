@@ -36,6 +36,7 @@ For recipes, tips and tricks around RBAC see [recipes.rbac.dev](https://recipes.
 ### Generators and operators
 
 - [liggitt/audit2rbac](https://github.com/liggitt/audit2rbac): takes a Kubernetes audit log and username as input, and generates RBAC role and binding objects that cover all the API requests made by that user.
+- [felixnotka/audicia](https://github.com/felixnotka/audicia): takes Kubernetes audit logs as input and continuously generates least-privilege RBAC role and binding objects as custom resources, with built-in compliance scoring.
 - [fairwindsops/rbac-manager](https://github.com/fairwindsops/rbac-manager): operator that supports declarative configuration for RBAC with new custom resources.
 - [rond-authz/rond](https://github.com/rond-authz/rond): Rönd is a lightweight container that distributes security policy enforcing throughout your application.
 
